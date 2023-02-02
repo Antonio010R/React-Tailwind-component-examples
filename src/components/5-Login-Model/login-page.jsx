@@ -21,7 +21,7 @@ const LoginPage = () => {
           <Login />
         </div>
         <img
-          className="hidden w-[430px] bg-center bg-cover md:block"
+            className="hidden w-[430px] bg-center objectfit rounded-r-lg md:block"
           src={heroImage}
           alt="heroimage"
         />
